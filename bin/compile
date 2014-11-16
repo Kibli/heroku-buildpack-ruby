@@ -29,3 +29,5 @@ rescue Exception => e
     raise e
   end
 end
+#!/usr/bin/env bash
+PATH=$PATH:/app/vendor/bundle/bin
